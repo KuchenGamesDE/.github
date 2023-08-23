@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="450" height="450" src="https://cdn.discordapp.com/attachments/1128067605870157924/1129448303562592326/KuchenGames_Logo.png"/>
+  <img width="280" height="280" src="https://cdn.discordapp.com/attachments/1128067605870157924/1129448303562592326/KuchenGames_Logo.png"/>
 </div>
 <div align="center">
     <h1>Kuchen Games</h1>
